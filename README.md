@@ -71,10 +71,6 @@ This will start the program, and you will be able to interact with the movie tic
 
 This project is open-source and available under the MIT License.
 
-## Contact
 
-GitHub: [https://github.com/evitabarboza](https://github.com/evitabarboza)
-
-Feel free to contribute and open issues if you encounter any problems.
 
 ```
