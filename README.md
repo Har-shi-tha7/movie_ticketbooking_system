@@ -19,7 +19,7 @@ To run the project on your local machine, follow the steps below:
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/evitabarboza/movie-ticket-booking-system.git
+git clone https://github.com/har-shi-tha7/movie-ticket-booking-system.git
 ```
 
 ### 2. Navigate to the Project Folder
